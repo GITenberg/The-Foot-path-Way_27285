@@ -1,0 +1,27 @@
+_repo: The-Foot-path-Way_27285
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 27285-h/images/frontcover.jpg
+creator:
+  author:
+    agent_name: Torrey, Bradford
+    birthdate: 1843
+    deathdate: 1912
+    gutenberg_agent_id: '3667'
+    url: http://www.gutenberg.org/2009/agents/3667
+description: ''
+gutenberg_bookshelf: Animals-Wild-Birds
+gutenberg_issued: '2008-11-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27285'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Birds'
+- !lcc 'QL'
+title: The Foot-path Way
+url: http://www.gutenberg.org/ebooks/27285
